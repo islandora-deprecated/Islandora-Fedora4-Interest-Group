@@ -1,4 +1,4 @@
-# Islandora-Fedora4-Interest-Group
+# Islandora Fedora 4 Interest Group
 
 ## Convenors
 
@@ -9,7 +9,7 @@
 * The name of the IIG is the Islandora Fedora 4 Interest Group
 * The purpose of the Islandora Fedora 4 Interest Group is to discuss Fedora 4 in the context of Islandora and develop a plan for integration.
 * Specific goals, activities, outcomes may include:
-  * Reviewing Fedora 4 [use cases](https://wiki.duraspace.org/display/FF/Roadmap) and [features] (https://wiki.duraspace.org/display/FF/Fedora+4.0+Feature+Set)
+  * Reviewing Fedora 4 [use cases](https://wiki.duraspace.org/display/FF/Roadmap) and [features](https://wiki.duraspace.org/display/FF/Fedora+4.0+Feature+Set)
     * Deciding which use cases are most relevant to Islandora
     * Adding new use cases where appropriate
   * Mapping Fedora 4 features to Islandora
