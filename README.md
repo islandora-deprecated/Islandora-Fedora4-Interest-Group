@@ -42,4 +42,4 @@
 * Caleb Derven (University of Limerick)
 * Jared Whiklo (University of Manitoba)
 * Ashok Modi (Cherry Hill Company)
-
+* Nick Ruest (York University)
