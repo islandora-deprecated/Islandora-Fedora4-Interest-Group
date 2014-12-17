@@ -1,4 +1,4 @@
-#Islandora 7.5 General Design Doc
+#Islandora 7.x-2.0 General Design Doc
 
 Islandora is lightweight, scalable middleware that connects a Fedora Commons JCR with a Drupal CMS and offers a pipeline of RESTful services for the common tasks such as thumbnail generation and metadata extraction.
 
