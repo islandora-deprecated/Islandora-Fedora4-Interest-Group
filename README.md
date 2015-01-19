@@ -2,22 +2,25 @@
 
 ## Convenors
 
-* David Wilcox (DuraSpace)
+* Nick Ruest (York University)
+* Daniel Lamb (discoverygarden)
 
 ## Terms of Reference
 
 * The name of the IIG is the Islandora Fedora 4 Interest Group
-* The purpose of the Islandora Fedora 4 Interest Group is to discuss Fedora 4 in the context of Islandora and develop a plan for integration.
+* The purpose of the Islandora Fedora 4 Interest Group is to implement Fedora 4 in the context of Islandora.
+  * [Islandora/Fedora 4 Prospectus](https://docs.google.com/document/d/1Qge1EKDkISNugfZQCaNzK6rJptgmWV37OO_s65Wgw3c/edit)
+  * [Islandora/Fedora 4 Project Plan](https://docs.google.com/document/d/1C6JvuHEJok4FxnXsZoLNGAMGYCezY_Utz6SDht3CZdU/edit)
 * Specific goals, activities, outcomes may include:
-  * Reviewing Fedora 4 [use cases](https://wiki.duraspace.org/display/FF/Roadmap) and [features](https://wiki.duraspace.org/display/FF/Fedora+4.0+Feature+Set)
-    * Deciding which use cases are most relevant to Islandora
-    * Adding new use cases where appropriate
+  * Create a generic "[upgration](https://wiki.duraspace.org/display/FF/Fedora+3+to+4+Upgration)" document for Islandora and:
+    * Identify pilot partners
+      * [York University](https://wiki.duraspace.org/display/FF/Upgration+Pilot+-+York+University)
+  * Reviewing Fedora 3 to 4 [Upgration Checklist](https://wiki.duraspace.org/display/FF/Fedora+3+to+4+Upgration+Checklist) and:
+    * Identifying what features are neccessary in Fedora 4
+    * Mapping Fedora 3 features to Fedora 4 features
   * Mapping Fedora 4 features to Islandora
     * Determining how Islandora will leverage new Fedora 4 features
-  * Developing a plan for integration
-    * Deciding on Drupal version support (D7/D8)
-    * Determining the level of effort required to integrate
-    * Developing migration strategies and tools from F3 to F4
+  * Identifying a GSearch replacement
   * Outreach and communication
     * Engaging other interested Islandora community members
     * Recruiting developers to work on integration tasks
@@ -44,3 +47,4 @@
 * Ashok Modi (Cherry Hill Company)
 * Nick Ruest (York University)
 * Andy Wagner (University of Toronto)
+* Daniel Lamb (discoverygarden)
