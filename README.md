@@ -20,7 +20,6 @@
     * Mapping Fedora 3 features to Fedora 4 features
   * Mapping Fedora 4 features to Islandora
     * Determining how Islandora will leverage new Fedora 4 features
-  * Identifying a GSearch replacement
   * Outreach and communication
     * Engaging other interested Islandora community members
     * Recruiting developers to work on integration tasks
