@@ -49,3 +49,4 @@
 * Daniel Lamb (discoverygarden)
 * Lingling Jiang (UTSC)
 * Kevin Bowrin (Carleton University)
+* Melissa Anez (Islandora Foundation)
