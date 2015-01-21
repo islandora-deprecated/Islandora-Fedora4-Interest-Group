@@ -51,4 +51,5 @@
 * Kevin Bowrin (Carleton University)
 * Melissa Anez (Islandora Foundation)
 * Logan Cox (University of Oklahoma)
+* Alex Garnett (SFU)
 
