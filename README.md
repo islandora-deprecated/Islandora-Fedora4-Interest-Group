@@ -26,6 +26,14 @@
 * The interest group will meet once a month virtually (eg. via Skype). A call for agenda items will be posted to the Islandora Google Group 1 week prior to the meeting. The convenor will appoint a note taker for the meeting and meeting notes will be made available at some url.
 * The convenors will produce a report to be submitted to the Islandora Roadmap Committee following the IF4IG’s meeting.
 
+## Links
+
+*[Fedora 4.0.0 Downloads](https://wiki.duraspace.org/display/FF/Downloads)
+* [Denver, CO Fedora 4 Training Workshop](https://wiki.duraspace.org/display/Events/Denver%2C+CO+Fedora+4+Training+Workshop+-+16+Oct+2014)
+*[Fedora 3 Content Model to a Fedora 4 Node Type](https://wiki.duraspace.org/display/FF/How+to+Migrate+a+Fedora+3+Content+Model+to+a+Fedora+4+Node+Type)
+* [Fedora 3 Object representation in Fedora 4](https://wiki.duraspace.org/display/FF/Fedora+3+Object+representation+in+Fedora+4)
+* [Fedora 4 Glossary](https://wiki.duraspace.org/display/FEDORA40/Glossary)
+
 ## Membership
 
 * David Wilcox (DuraSpace)
