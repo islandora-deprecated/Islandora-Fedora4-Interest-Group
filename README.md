@@ -62,3 +62,4 @@
 * Logan Cox (University of Oklahoma)
 * Alex Garnett (SFU)
 * Diego Pino (REUNA)
+* Kim Pham (UTSC)
