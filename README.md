@@ -63,3 +63,4 @@
 * Alex Garnett (SFU)
 * Diego Pino (REUNA)
 * Kim Pham (UTSC)
+* [James Griffin (Lafayette College Libraries)](https://github.com/jrgriffiniii)
