@@ -28,12 +28,14 @@
 
 ## Links
 
-* [Fedora 4.0.0 Downloads](https://wiki.duraspace.org/display/FF/Downloads)
+* [Fedora 4 Downloads](https://wiki.duraspace.org/display/FF/Downloads)
 * [Denver, CO Fedora 4 Training Workshop](https://wiki.duraspace.org/display/Events/Denver%2C+CO+Fedora+4+Training+Workshop+-+16+Oct+2014)
 * [Fedora 3 Content Model to a Fedora 4 Node Type](https://wiki.duraspace.org/display/FF/How+to+Migrate+a+Fedora+3+Content+Model+to+a+Fedora+4+Node+Type)
 * [Fedora 3 Object representation in Fedora 4](https://wiki.duraspace.org/display/FF/Fedora+3+Object+representation+in+Fedora+4)
 * [Fedora 4 Glossary](https://wiki.duraspace.org/display/FEDORA40/Glossary)
 * [Fedora 4 Ontology](http://fedora.info/definitions/v4/repository)
+* [Fedora Community Data Model](https://wiki.duraspace.org/display/FF/Fedora+Community+Data+Model)
+* [Upgration](https://wiki.duraspace.org/display/FF/Fedora+3+to+4+Upgration+Pilots)
 
 ## Membership
 
