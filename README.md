@@ -67,3 +67,5 @@
 * Kim Pham (UTSC)
 * [James Griffin (Lafayette College Libraries)](https://github.com/jrgriffiniii)
 * Chuck Schoppet (USDA)
+* Mark Noble (Marmot Library Network)
+* Jordan Fields (Garfield County Libraries)
