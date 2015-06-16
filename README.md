@@ -62,6 +62,7 @@
 * Kevin Bowrin (Carleton University)
 * Melissa Anez (Islandora Foundation)
 * Logan Cox (University of Oklahoma)
+* Tao Zhao (University of Oklahoma)
 * Alex Garnett (SFU)
 * Diego Pino (REUNA)
 * Kim Pham (UTSC)
