@@ -70,3 +70,4 @@
 * Chuck Schoppet (USDA)
 * Mark Noble (Marmot Library Network)
 * Jordan Fields (Garfield County Libraries)
+* [Marcus Emmanuel Barnes] (https://github.com/MarcusBarnes) (Simon Fraser University)
