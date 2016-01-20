@@ -23,7 +23,7 @@
   * Outreach and communication
     * Engaging other interested Islandora community members
     * Recruiting developers to work on integration tasks
-* The interest group will meet once a month virtually (eg. via Skype). A call for agenda items will be posted to the Islandora Google Group 1 week prior to the meeting. The convenor will appoint a note taker for the meeting and meeting notes will be made available at some url.
+* The interest group will meets weekly virtually ([call-in info](https://github.com/Islandora-CLAW/CLAW/wiki/January-20,-2016#timeplace). A call for agenda items will be posted to the Islandora Google Group 1 week prior to the meeting. The convenor will appoint a note taker for the meeting and meeting notes will be made available at some url.
 * The convenors will produce a report to be submitted to the Islandora Roadmap Committee following the IF4IG’s meeting.
 
 ## Links
