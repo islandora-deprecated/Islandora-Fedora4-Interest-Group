@@ -1,3 +1,6 @@
+# DEPRECATED - [Join us on weekly CLAW CALLS](https://github.com/Islandora-CLAW/CLAW/wiki#islandora-7x-2x-tech-calls)
+
+
 # Islandora Fedora 4 Interest Group
 
 ## Convenors
